@@ -43,6 +43,7 @@ public class Main {
 		mon1.setName("スライム");
 		mon1.attack(f1);
 		mon1.attack(f1);
+
 	}
 
 }
